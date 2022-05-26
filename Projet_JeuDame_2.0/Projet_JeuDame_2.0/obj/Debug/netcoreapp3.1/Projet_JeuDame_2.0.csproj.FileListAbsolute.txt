@@ -1,0 +1,68 @@
+C:\Users\PC\OneDrive\Bureau\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.exe
+C:\Users\PC\OneDrive\Bureau\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.deps.json
+C:\Users\PC\OneDrive\Bureau\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.runtimeconfig.json
+C:\Users\PC\OneDrive\Bureau\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.runtimeconfig.dev.json
+C:\Users\PC\OneDrive\Bureau\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.dll
+C:\Users\PC\OneDrive\Bureau\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.pdb
+C:\Users\PC\OneDrive\Bureau\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Bureau\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Bureau\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Bureau\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Bureau\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Bureau\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.dll
+C:\Users\PC\OneDrive\Bureau\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.pdb
+C:\Users\PC\OneDrive\Bureau\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.genruntimeconfig.cache
+D:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.exe
+D:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.deps.json
+D:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.runtimeconfig.json
+D:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.runtimeconfig.dev.json
+D:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.dll
+D:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.pdb
+D:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.csprojAssemblyReference.cache
+D:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.AssemblyInfoInputs.cache
+D:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.AssemblyInfo.cs
+D:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.csproj.CoreCompileInputs.cache
+D:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.dll
+D:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.pdb
+D:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.genruntimeconfig.cache
+I:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.exe
+I:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.deps.json
+I:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.runtimeconfig.json
+I:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.runtimeconfig.dev.json
+I:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.dll
+I:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.pdb
+I:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.csproj.AssemblyReference.cache
+I:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.GeneratedMSBuildEditorConfig.editorconfig
+I:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.AssemblyInfoInputs.cache
+I:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.AssemblyInfo.cs
+I:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.csproj.CoreCompileInputs.cache
+I:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.dll
+I:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.pdb
+I:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.genruntimeconfig.cache
+E:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.exe
+E:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.deps.json
+E:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.runtimeconfig.json
+E:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.runtimeconfig.dev.json
+E:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.dll
+E:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.pdb
+E:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.csprojAssemblyReference.cache
+E:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.AssemblyInfoInputs.cache
+E:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.AssemblyInfo.cs
+E:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.csproj.CoreCompileInputs.cache
+E:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.dll
+E:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.pdb
+E:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.genruntimeconfig.cache
+J:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.exe
+J:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.deps.json
+J:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.runtimeconfig.json
+J:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.runtimeconfig.dev.json
+J:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.dll
+J:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\bin\Debug\netcoreapp3.1\Projet_JeuDame_2.0.pdb
+J:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.csproj.AssemblyReference.cache
+J:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.GeneratedMSBuildEditorConfig.editorconfig
+J:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.AssemblyInfoInputs.cache
+J:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.AssemblyInfo.cs
+J:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.csproj.CoreCompileInputs.cache
+J:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.dll
+J:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.pdb
+J:\USB DISK\Projet_JeuDame_2.0\Projet_JeuDame_2.0\Projet_JeuDame_2.0\obj\Debug\netcoreapp3.1\Projet_JeuDame_2.0.genruntimeconfig.cache
